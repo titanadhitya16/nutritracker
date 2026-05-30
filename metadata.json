@@ -1,0 +1,8 @@
+{
+  "name": "NourishTracker",
+  "description": "A skeuomorphic daily food and water tracker using AI to estimate calories.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
